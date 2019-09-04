@@ -1,0 +1,26 @@
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not copy /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/8c26af9c3c6f187c72f54c09c2a380b3/0/ to /opt/lampp/htdocs/biletavto/labs/modx/index.php
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not copy /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/8c26af9c3c6f187c72f54c09c2a380b3/1/ to /opt/lampp/htdocs/biletavto/labs/modx/ht.access
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) xPDOVehicle resolver failed: type php (/opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/8c26af9c3c6f187c72f54c09c2a380b3.resolve.core.resolver)
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not resolve vehicle for object of class modContext; criteria: Array
+(
+    [key] => web
+)
+
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not copy /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/0/ to /opt/lampp/htdocs/biletavto/labs/modx/manager/assets
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not copy /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/1/ to /opt/lampp/htdocs/biletavto/labs/modx/manager/controllers
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not copy /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/2/ to /opt/lampp/htdocs/biletavto/labs/modx/manager/templates
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not copy /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/3/ to /opt/lampp/htdocs/biletavto/labs/modx/manager/min
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not copy /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/4/ to /opt/lampp/htdocs/biletavto/labs/modx/manager/ht.access
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not copy /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/5/ to /opt/lampp/htdocs/biletavto/labs/modx/manager/cache.manifest.php
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not copy /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/6/ to /opt/lampp/htdocs/biletavto/labs/modx/manager/index.php
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) xPDOVehicle resolver failed: type php (/opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c.resolve.core.resolver)
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not resolve vehicle for object of class modContext; criteria: Array
+(
+    [key] => mgr
+)
+
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not install files from /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/xPDOFileVehicle/b74a8ab124b2c5cb079063fd023a906e/ to /opt/lampp/htdocs/biletavto/labs/modx/connectors/
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not install files from /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/xPDOFileVehicle/4c1222226155ca5fc34f88c62ca57baa/ to /opt/lampp/htdocs/biletavto/labs/modx/connectors/
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not install files from /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/xPDOFileVehicle/082548e247ca69715976e8acd111ff42/ to /opt/lampp/htdocs/biletavto/labs/modx/connectors/
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) Could not install files from /opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/xPDOFileVehicle/921f4e2ef8d478bde16ec9b15a8d021e/ to /opt/lampp/htdocs/biletavto/labs/modx/connectors/
+[2019-07-29 10:18:45] (ERROR @ /setup/index.php) xPDOVehicle resolver failed: type php (/opt/lampp/htdocs/biletavto/labs/modx/core/packages/core/xPDOFileVehicle/921f4e2ef8d478bde16ec9b15a8d021e.resolve.core.resolver)
